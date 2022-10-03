@@ -1,0 +1,12 @@
+Para usar o godoc temos que fazer a instalação do mesmo
+
+1)  go install golang.org/x/tools/cmd/godoc
+
+
+Para averiguar se o pacote está instalado podemos usar go doc <pkg>
+go doc json.Umarshal
+
+
+Lembrando que também posso ter
+Posso abrir localmente a documentação da linguagem
+C:\Users\gomes\Desktop\Golang\godoc>godoc -http=:4000
